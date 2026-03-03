@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0414-third-maximum-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0414-third-maximum-number) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
