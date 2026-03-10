@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
