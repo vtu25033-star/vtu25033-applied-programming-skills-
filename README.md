@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0977-squares-of-a-sorted-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
