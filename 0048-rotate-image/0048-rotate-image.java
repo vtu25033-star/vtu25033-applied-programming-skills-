@@ -10,7 +10,7 @@ class Solution {
         }
            //  Reverse
         for(int i=0;i<arr.length;i++){
-            int a = 0,b = arr.length-1;
+            int a = 0,b = arr[0].length-1;
             while(a<b){
                int temp = arr[i][a];
                arr[i][a] = arr[i][b];
