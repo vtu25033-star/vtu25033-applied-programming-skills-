@@ -1,5 +1,6 @@
 class Solution {
     public void rotate(int[][] arr) {
+        // Transpose
         for(int i =0;i<arr.length;i++){
             for(int j=0;j<i;j++){
                int temp = arr[i][j];
@@ -7,9 +8,9 @@ class Solution {
                arr[j][i] = temp;
             }
         }
-
+           //  Reverse
         for(int i=0;i<arr.length;i++){
-            int a = 0,b = arr[0].length-1;
+            int a = 0,b = arr.length-1;
             while(a<b){
                int temp = arr[i][a];
                arr[i][a] = arr[i][b];
