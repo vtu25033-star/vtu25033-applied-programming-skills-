@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0119-pascals-triangle-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0283-move-zeroes) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0414-third-maximum-number) |
