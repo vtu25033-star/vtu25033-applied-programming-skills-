@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0069-sqrtx) |
