@@ -3,18 +3,18 @@ class Solution {
         long largest = Long.MIN_VALUE;
         long second = Long.MIN_VALUE;
         long third = Long.MIN_VALUE;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]>largest){
+        for(int i:nums){
+            if(i>largest){
                 third = second;
                 second = largest;
-                largest = nums[i];
+                largest = i;
             }
-            else if (nums[i] > second && nums[i] < largest){
+            else if (i > second && i != largest){
                 third = second; 
-                second = nums[i];}
-            else if(nums[i] > third && nums[i] < second) third = nums[i];
+                second = i;}
+            else if(i > third && i != largest && i != second) third = i;
         }
-        if(third == Long.MIN_VALUE) return (int)largest;
-        else return (int)third;
+        return (third == Long.MIN_VALUE) ? (int)largest : (int)third;
+    
     }
 }
