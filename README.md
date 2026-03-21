@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -104,8 +105,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0240-search-a-2d-matrix-ii) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
