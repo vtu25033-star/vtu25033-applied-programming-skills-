@@ -4,9 +4,8 @@ class Solution {
         // Find the starting index of positive number
         while(l<=r){
             int mid = (l+r)/2;
-            if(nums[mid] == 0) l = mid + 1;
-            if(nums[mid] > 0) r = mid - 1;
-            else l = mid + 1;
+            if(nums[mid] <= 0) l = mid + 1;
+            else r = mid - 1;
         }
         // Subtract n - left(l) + 1
         int positive = n - l + 1;  // Here we will get count of positive numbers.
@@ -17,9 +16,8 @@ class Solution {
         r = n;
         while(l<=r){
             int mid = (l+r)/2;
-            if(nums[mid] == 0) r = mid - 1;
-            if(nums[mid] < 0) l = mid + 1;
-            else r = mid - 1;
+            if(nums[mid] >= 0) r = mid - 1;
+            else l = mid + 1;
         }
         // Add right(r) + 1
         int negative = r + 1;  // Here we will get count of negative numbers.
