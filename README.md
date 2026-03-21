@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0283-move-zeroes) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0977-squares-of-a-sorted-array) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
