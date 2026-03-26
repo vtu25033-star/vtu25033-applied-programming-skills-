@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0506-relative-ranks](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0867-transpose-matrix) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
