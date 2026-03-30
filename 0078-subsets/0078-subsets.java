@@ -9,10 +9,12 @@ class Solution {
             list.add(new ArrayList<>(ans));
             return;
         }
+        // SKIP
+        subsets(ans,nums,idx+1,list);
+        // PICK 
         ans.add(nums[idx]);
         subsets(ans,nums,idx+1,list);
-
+        // BACK TRACK
         ans.remove(ans.size() - 1);
-        subsets(ans,nums,idx+1,list);
     }
 }
