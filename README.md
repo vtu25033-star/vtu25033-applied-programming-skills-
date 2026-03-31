@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0022-generate-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0171-excel-sheet-column-number) |
 ## Sliding Window
 |  |
@@ -156,5 +158,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
