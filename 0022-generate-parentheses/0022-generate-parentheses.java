@@ -1,6 +1,6 @@
 class Solution {
     public void generate(int n,int l,int r,String s,List<String> ans) {
-        if(l+r==2*n) {
+        if(r==n) {
             ans.add(s);
             return;
         }
