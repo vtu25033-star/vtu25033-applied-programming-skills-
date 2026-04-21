@@ -4,15 +4,15 @@ class Solution {
         int count = 0;
         for(int i=0;i<nums.length;i++){
             if(nums[i]!=1){
-                if(count>max){
-                    max=count;
-                }
                 count = 0;
             }
             else{
                 count++;
+                if(count>max){
+                    max=count;
+                }
             }
         }
-        return (count>max) ? count:max;
+        return max;
     }
 }
