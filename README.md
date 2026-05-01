@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0038-count-and-say) |
 | [0171-excel-sheet-column-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0171-excel-sheet-column-number) |
 ## Sliding Window
 |  |
