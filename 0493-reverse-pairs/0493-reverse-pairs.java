@@ -3,7 +3,7 @@ class Solution {
     public static void inversions(int[] a,int[] b){
         int i=0,j=0;
         while(i<a.length && j<b.length){
-            if((long)a[i]>(long)2*b[j]){
+            if(a[i]>(long)2*b[j]){
                 count += (a.length - i);
                 j++;
             }
