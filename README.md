@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0493-reverse-pairs) |
 | [0506-relative-ranks](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0704-binary-search) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0441-arranging-coins) |
+| [0493-reverse-pairs](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0493-reverse-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -172,4 +175,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0020-valid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
