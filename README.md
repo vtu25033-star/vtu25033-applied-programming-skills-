@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0414-third-maximum-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0977-squares-of-a-sorted-array) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0441-arranging-coins) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
