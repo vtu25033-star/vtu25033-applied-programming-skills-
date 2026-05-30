@@ -4,7 +4,7 @@ class Solution {
         int i = 0;
         while(i<nums.length){
             int idx = nums[i] - 1;
-            if(nums[i] <= 0 || nums[i] == i+1 || nums[i] >= n) {
+            if(nums[i] <= 0 || nums[i] == i+1 || nums[i] > n) {
                 i++;
             }
             else{
