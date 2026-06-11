@@ -9,10 +9,8 @@ class Solution {
             t1 = t1.next;
             t1.next = temp;
             t1 = t1.next; 
-            // t1.next = null;
             temp = nextNode;
-            // if(temp.next != null)temp = temp.next.next;
-            // else break;
+        
        }
        t1.next = temp;
 
