@@ -16,7 +16,7 @@ class Solution {
         Node temp = dummy;
         Node temp1 = head1;
         Node temp2 = head2;
-        while(temp1 != null && temp2 != null){
+        while(temp2 != null){
             temp.next = temp1;
             temp = temp.next;
             temp1 = temp1.next;
