@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0119-pascals-triangle-ii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0682-baseball-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/2487-remove-nodes-from-linked-list) |
