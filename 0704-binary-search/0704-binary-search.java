@@ -1,4 +1,6 @@
-class Solution {
+class Solution { 
+
+//  NORMAL METHOD BHAI.......
     // public int search(int[] nums, int target) {
     //    int l=0,r=nums.length - 1,mid;
     //     while(l<=r){
@@ -16,7 +18,7 @@ class Solution {
     //     return -1;
     // }
 
-//  RECURSION BHAI
+//  RECURSION BHAI...........
 
     public int helper(int[] nums, int target,int lo,int hi) {        
         if(lo>hi) return -1;
