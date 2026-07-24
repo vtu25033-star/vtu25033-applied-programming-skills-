@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0977-squares-of-a-sorted-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0038-count-and-say) |
 | [0171-excel-sheet-column-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0171-excel-sheet-column-number) |
+| [0344-reverse-string](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
