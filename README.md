@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0344-reverse-string) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0682-baseball-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
