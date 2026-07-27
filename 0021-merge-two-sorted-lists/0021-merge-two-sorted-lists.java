@@ -37,23 +37,23 @@
 class Solution {
     public ListNode mergeTwoLists(ListNode h1, ListNode h2) {
         ListNode dummy = new ListNode(0);
-        ListNode temp = dummy;
-        ListNode a = h1;
-        ListNode b = h2;
+        ListNode t = dummy;
+        ListNode t1 = h1;
+        ListNode t2 = h2;
 
-        while(a != null && b != null){
-            if(a.val>b.val){
-                temp.next = b;
-                b = b.next;
+        while(t1 != null && t2 != null){
+            if(t1.val>t2.val){
+                t.next = t2;
+                t2 = t2.next;
             }
             else{
-                temp.next = a;
-                a = a.next;
+                t.next = t1;
+                t1 = t1.next;
             }
-            temp = temp.next;
+            t = t.next;
         }
-        if(a==null) temp.next = b;
-        if(b==null) temp.next = a;
+        if(t1==null) t.next = t2;
+        if(t2==null) t.next = t1;
 
         return dummy.next;
 
