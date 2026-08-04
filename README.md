@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0682-baseball-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/2487-remove-nodes-from-linked-list) |
