@@ -5,7 +5,7 @@ class MinStack {
         st = new Stack<>();
         MinSt = new Stack<>();
     }
-    
+
     public void push(int val) {
         st.push(val);
         if(MinSt.size() == 0 || val < MinSt.peek()) MinSt.push(val);
