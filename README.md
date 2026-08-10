@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0682-baseball-game) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Indexed Tree
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0503-next-greater-element-ii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
