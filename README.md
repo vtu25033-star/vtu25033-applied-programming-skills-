@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0977-squares-of-a-sorted-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0739-daily-temperatures) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/2487-remove-nodes-from-linked-list) |
