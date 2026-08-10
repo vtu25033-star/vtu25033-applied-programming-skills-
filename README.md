@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0387-first-unique-character-in-a-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0682-baseball-game) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/2487-remove-nodes-from-linked-list) |
