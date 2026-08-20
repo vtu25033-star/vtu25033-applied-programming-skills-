@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0240-search-a-2d-matrix-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0349-intersection-of-two-arrays) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0038-count-and-say) |
 | [0171-excel-sheet-column-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -317,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1480-running-sum-of-1d-array) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
