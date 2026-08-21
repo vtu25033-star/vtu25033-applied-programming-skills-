@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0075-sort-colors) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0119-pascals-triangle-ii) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0493-reverse-pairs) |
