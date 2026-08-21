@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0977-squares-of-a-sorted-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0645-set-mismatch) |
 ## Binary Search
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0451-sort-characters-by-frequency) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0506-relative-ranks) |
 ## String
 |  |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0451-sort-characters-by-frequency) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Sliding Window
 |  |
@@ -324,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0179-largest-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
