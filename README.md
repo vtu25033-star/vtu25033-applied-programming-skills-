@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0867-transpose-matrix) |
+| [0918-maximum-sum-circular-subarray](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1470-shuffle-the-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0493-reverse-pairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -336,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0451-sort-characters-by-frequency) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
