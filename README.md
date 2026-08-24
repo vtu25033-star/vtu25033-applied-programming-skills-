@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0641-design-circular-deque](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0641-design-circular-deque) |
 | [0645-set-mismatch](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0704-binary-search) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0641-design-circular-deque](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0641-design-circular-deque) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/2487-remove-nodes-from-linked-list) |
@@ -320,12 +322,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0387-first-unique-character-in-a-string) |
+| [0641-design-circular-deque](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
