@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0027-remove-element) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0070-climbing-stairs) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0038-count-and-say) |
@@ -354,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0933-number-of-recent-calls) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
