@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0112-path-sum) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Doubly-Linked List
@@ -367,13 +368,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0112-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0112-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0112-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
