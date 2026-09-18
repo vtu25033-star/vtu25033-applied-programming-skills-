@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0414-third-maximum-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0414-third-maximum-number) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0387-first-unique-character-in-a-string) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0451-sort-characters-by-frequency) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Recursion
@@ -227,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0506-relative-ranks) |
 ## String
@@ -365,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Queue
 |  |
@@ -403,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0437-path-sum-iii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
