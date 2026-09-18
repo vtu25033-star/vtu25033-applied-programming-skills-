@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0509-fibonacci-number) |
+| [1360-number-of-days-between-two-dates](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1360-number-of-days-between-two-dates) |
 ## Counting
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0451-sort-characters-by-frequency) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1360-number-of-days-between-two-dates](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1360-number-of-days-between-two-dates) |
 ## Sliding Window
 |  |
 | ------- |
