@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0066-plus-one) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0148-sort-list) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0142-linked-list-cycle-ii) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0344-reverse-string) |
