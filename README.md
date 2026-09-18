@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
