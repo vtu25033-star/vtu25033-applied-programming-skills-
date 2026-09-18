@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/0509-fibonacci-number) |
 | [1154-day-of-the-year](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1154-day-of-the-year) |
+| [1185-day-of-the-week](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1185-day-of-the-week) |
 | [1360-number-of-days-between-two-dates](https://github.com/vtu25033-star/vtu25033-applied-programming-skills-/tree/master/1360-number-of-days-between-two-dates) |
 ## Counting
 |  |
